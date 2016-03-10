@@ -28,7 +28,7 @@ Edit the saml.py file variables:
 
 ## Notes
 
-Totally based on the script from https://blogs.aws.amazon.com/security/post/Tx1LDN0UBGJJ26Q/How-to-Implement-Federated-API-and-CLI-Access-Using-SAML-2-0-and-AD-FS#postCommentsTx1LDN0UBGJJ26Q
+Totally based on the script from [Quint Van Deman](https://blogs.aws.amazon.com/security/post/Tx1LDN0UBGJJ26Q/How-to-Implement-Federated-API-and-CLI-Access-Using-SAML-2-0-and-AD-FS#postCommentsTx1LDN0UBGJJ26Q "How to Implement Federated API and CLI Access Using SAML 2.0 and AD FS")
 
 Changes were made to
 - use python3 to get rid of unicode annoyances
