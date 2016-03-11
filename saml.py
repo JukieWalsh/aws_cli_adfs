@@ -112,11 +112,6 @@ for awsrole in awsroles:
         awsroles.insert(index, newawsrole)
         awsroles.remove(awsrole)
 
-# # Remove non-admin roles
-# for index, role in enumerate(awsroles):
-#     if "Admin" not in role:
-#         awsroles.pop(index)
-
 # If I have more than one role, ask the user which one they want,
 # otherwise just proceed
 print("")
