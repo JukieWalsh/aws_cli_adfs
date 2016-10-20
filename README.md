@@ -28,6 +28,8 @@ Edit the saml.py file variables:
 
 ## Notes
 
+Python 3.5 is required (actually developed and tested on it only).
+
 Totally based on the script from [Quint Van Deman](https://blogs.aws.amazon.com/security/post/Tx1LDN0UBGJJ26Q/How-to-Implement-Federated-API-and-CLI-Access-Using-SAML-2-0-and-AD-FS#postCommentsTx1LDN0UBGJJ26Q "How to Implement Federated API and CLI Access Using SAML 2.0 and AD FS")
 
 Changes were made to
